@@ -1,6 +1,5 @@
 
 import java.util.Scanner;
-
 public class Mathclass {
     public static void main(String []args){
         double x = 3.14;
