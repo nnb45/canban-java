@@ -1,9 +1,6 @@
-package hocjava0;
+
 import java.util.Scanner;
-/**
- *
- * @author HieuPham
- */
+
 public class nhapdulieu {
     public static void main(String [] args){
      Scanner scanner = new Scanner(System.in);

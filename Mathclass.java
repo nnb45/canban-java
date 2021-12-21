@@ -1,9 +1,6 @@
-package hocjava0;
+
 import java.util.Scanner;
-/**
- *
- * @author HieuPham
- */
+
 public class Mathclass {
     public static void main(String []args){
         double x = 3.14;

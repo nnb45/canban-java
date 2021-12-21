@@ -1,9 +1,4 @@
-package hocjava0;
 
-/**
- *
-khaibaobien
- */
 public class Hocjava0 {
 
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package hocjava0;
+
 import javax.swing.JOptionPane;
 //GUI Graphical User Interface Giao dien truc quan
 public class basicswing {

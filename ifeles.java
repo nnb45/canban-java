@@ -1,9 +1,4 @@
-package hocjava0;
 
-/**
- *
- * @author HieuPham
- */
 public class ifeles {
     public static void main(String[] agrs){
     int age = 18;

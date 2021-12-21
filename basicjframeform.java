@@ -1,4 +1,4 @@
-package hocjava0;
+
 import javax.swing.*;  
 /**
  *
