@@ -1,9 +1,4 @@
-package hocjava0;
 
-/**
- *
- * @author HieuPham
- */
 public class switchcase {
     public static void main(String[] agrs){
         String day = "thu sau";

@@ -1,11 +1,6 @@
-package hocjava0;
 
 import java.util.Scanner;
 
-/**
- *
- * @author HieuPham
- */
 public class whileloop {
     public static void main (String[]agrs){
         Scanner h = new Scanner(System.in);

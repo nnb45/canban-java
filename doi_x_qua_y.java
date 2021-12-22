@@ -1,9 +1,4 @@
-package hocjava0;
 
-/**
- *
- * @author HieuPham
- */
 public class doi_x_qua_y {
     public static void main(String [] args){
         String x = "nuoc loc";

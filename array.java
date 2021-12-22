@@ -1,11 +1,4 @@
-package hocjava0;
-
 import java.util.Scanner;
-
-/**
- *
- * @author HieuPham
- */
 public class array {
     public static void main(String[]agrs){
         //thay doi du lieu mang

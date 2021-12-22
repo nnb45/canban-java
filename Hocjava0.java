@@ -1,11 +1,4 @@
-package hocjava0;
-
-/**
- *
-khaibaobien
- */
 public class Hocjava0 {
-
     public static void main(String[] args) {
         int x =123;
         float y = 2.14868f;
@@ -19,11 +12,5 @@ public class Hocjava0 {
         System.out.println(symbol);
         System.out.println(symbol1);
         System.out.println("Helloworld "+name);
-        
-        
-        
-        
-        
-    }
-    
+    }   
 }

@@ -1,9 +1,4 @@
-package hocjava0;
 
-/**
- *
- * @author HieuPham
- */
 public class pheptoan {
     public static void main(String [] args){
     int a = 11;

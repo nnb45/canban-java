@@ -1,9 +1,6 @@
-package hocjava0;
+
 import java.util.Random;
-/**
- *
- * @author HieuPham
- */
+
 public class hamran {
     public static void main(String [] agrs){
         Random r=new Random();

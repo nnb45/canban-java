@@ -1,9 +1,4 @@
-package hocjava0;
 import javax.swing.*;  
-/**
- *
- * @author HieuPham
- */
 public class basicjframeform {
     public static void main(String[] args) {  
 JFrame f=new JFrame();//creating instance of JFrame  
