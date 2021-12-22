@@ -2,7 +2,7 @@
 public class Hocjava0 {
 
     public static void main(String[] args) {
-        int x =123;
+        //int x =123;
         float y = 2.14868f;
         boolean z = true;
         char symbol = '@';
