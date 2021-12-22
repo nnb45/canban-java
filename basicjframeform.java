@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1aed2236fc2d568e3cc42f8a95ba8ee94665735f
 import javax.swing.*;  
 public class basicjframeform {
     public static void main(String[] args) {  
