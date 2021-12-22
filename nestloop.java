@@ -1,13 +1,6 @@
-<<<<<<< HEAD
-import java.util.Scanner;
-
-=======
-
 
 import java.util.Scanner;
 
-
->>>>>>> 1aed2236fc2d568e3cc42f8a95ba8ee94665735f
 public class nestloop {//loop nay trong loop kia
     public static void main(String[]agrs){
         try (Scanner h = new Scanner(System.in)) {
