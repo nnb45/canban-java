@@ -19,7 +19,7 @@ public class array {
         //nhap du lieu va in trong terminal
         Scanner h = new Scanner(System.in); 
             String candy[] = new String[3];
-            for(int i=0;i<candy.length;i++){
+            for(int i=0; i<candy.length; i++){
                 System.out.println("nhap phan tu thu "+ i );
                 candy[i] = h.nextLine();
             }
